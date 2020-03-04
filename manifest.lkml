@@ -1,6 +1,3 @@
-project_name: "block--config"
-  
+project_name: "block-braze-config"
+
 ################ Constants ################
-
-# If needed TODO Define constants with "export: override_required" declared
-
