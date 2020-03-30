@@ -1,2 +1,2 @@
 view: +message_variation {}
-include: "//block_refinement_testing/views/message_variation_core.view.lkml"
+include: "//block_refinement_testing/views/+message_variation_core.view.lkml"
