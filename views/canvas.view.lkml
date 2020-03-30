@@ -1,4 +1,2 @@
-view: +canvas {
-  include: "//block_refinement_testing/views/['+canvas']"
-}
-include: "//block_refinement_testing/views/canvas"
+view: +canvas {}
+include: "//block_refinement_testing/views/canvas_core.view.lkml"
