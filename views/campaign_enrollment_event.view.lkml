@@ -1,1 +1,3 @@
-view: +campaign_enrollment_event {}
+view: +campaign_enrollment_event {
+  include: "//block_refinement_testing/views/['+campaign_enrollment', 'event']"
+}
