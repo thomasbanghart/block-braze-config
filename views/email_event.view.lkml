@@ -1,1 +1,3 @@
-view: +email_event {}
+view: +email_event {
+  include: "//block_refinement_testing/views/['+email', 'event']"
+}
