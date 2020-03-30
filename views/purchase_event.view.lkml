@@ -1,1 +1,3 @@
-view: +purchase_event {}
+view: +purchase_event {
+  include: "//block_refinement_testing/views/['+purchase', 'event']"
+}
